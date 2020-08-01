@@ -23,9 +23,6 @@ export const VideoCardContainer = styled.a`
   &:hover,
   &:focus {
     opacity: .5;
-    flex: 0 0 350px;
-    height: 250px;
-    width: 350px;
   }
   
   &:not(:first-child) {
